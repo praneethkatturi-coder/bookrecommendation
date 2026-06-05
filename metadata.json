@@ -1,0 +1,6 @@
+{
+  "name": "Book Recommendation AI",
+  "description": "An AI-powered personal reading companion that provides personalized book recommendations, interactive audio/text summaries, and customizable reading goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
